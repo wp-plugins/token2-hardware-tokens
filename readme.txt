@@ -19,18 +19,14 @@ The two-factor authentication requirement can be enabled on a per-user basis by 
 1. Make sure your webhost is capable of providing accurate time information for PHP/WordPress, ie. make sure a NTP daemon is running on the server.
 2. Install and activate the plugin.
 3. Enter a description on the Users -> Profile and Personal options page, in the Token2 Hardware Tokens section.
-4. Scan the generated QR code with your phone, or enter the secret manually, remember to pick the time based one.  
+4. Scan the generated QR code with your phone, or enter the secret manually, please note that Token2 hardware tokens are based on TOTP.  
 You may also want to write down the secret on a piece of paper and store it in a safe place. 
 5. Remember to hit the **Update profile** button at the bottom of the page before leaving the Personal options page.
 6. That's it, your WordPress blog is now a little more secure.
 
 == Frequently Asked Questions ==
 
-= Can I use Token2 Hardware Tokens for WordPress with the Android/iPhone apps for WordPress? =
-
-Yes, you can enable the App password feature to make that possible, but notice that the XMLRPC interface isn't protected by two-factor authentication, only a long password.
-
-= I want to update the secret, should I just scan the new QR code after creating a new secret? =
+ 
  
 = I have several users on my WordPress installation, is that a supported configuration ? =
 
