@@ -1,7 +1,7 @@
 === Token2 Hardware Tokens ===
 Contributors: token2
 Donate Link: https://token2.com/
-Tags: authentication,otp,password,security,login,android,iphone,blackberry
+Tags: authentication,otp,password,security,login,hardware tokens, totp, two-factor, strong security, twofactor, dongle, one-time passwords, token2, token
 Requires at least: 3.8
 Tested up to: 3.8.1
 Stable tag: 0.47
@@ -25,7 +25,9 @@ You may also want to write down the secret on a piece of paper and store it in a
 6. That's it, your WordPress blog is now a little more secure.
 
 == Frequently Asked Questions ==
+= Which hardware tokens this plugin supports? =
 
+The plugin is designed primarily to support Token2 hardware tokens, available here:<a href=https://token2.com/?content=hwtokens>https://token2.com/?content=hwtokens</a>. A few other token models are supported as well. Feel free to contact us for more details : <a href=https://token2.com/contact>https://token2.com/contact</a>.
  
  
 = I have several users on my WordPress installation, is that a supported configuration ? =
