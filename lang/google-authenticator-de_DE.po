@@ -1,0 +1,109 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Token2 Hardware Tokens 0.30\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/token2-hwtokens\n"
+"POT-Creation-Date: 2011-05-17 19:38:36+00:00\n"
+"PO-Revision-Date: 2011-06-25 16:20+0100\n"
+"Last-Translator: Tobias Bäthge <wordpress@tobias.baethge.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: token2-hwtokens.php:118
+#@ token2-hwtokens
+msgid "Token2 Hardware Tokens code"
+msgstr "&quot;Token2 Hardware Tokens&quot;-Code"
+
+#: token2-hwtokens.php:172
+#: token2-hwtokens.php:267
+#@ token2-hwtokens
+msgid "Active"
+msgstr "Aktivieren"
+
+#: token2-hwtokens.php:184
+#@ token2-hwtokens
+msgid "Description"
+msgstr "Beschreibung"
+
+#: token2-hwtokens.php:189
+#@ token2-hwtokens
+msgid "Secret"
+msgstr "Geheimschlüssel"
+
+#: token2-hwtokens.php:192
+#@ token2-hwtokens
+msgid "Create new secret"
+msgstr "Neuen Geheimschlüssel erzeugen"
+
+#: token2-hwtokens.php:193
+#@ token2-hwtokens
+msgid "Show/Hide QR code"
+msgstr "QR-Code anzeigen/verstecken"
+
+#. translators: plugin header field 'Name'
+#: token2-hwtokens.php:0
+#@ token2-hwtokens
+msgid "Token2 Hardware Tokens"
+msgstr "Token2 Hardware Tokens"
+
+ 
+
+#. translators: plugin header field 'AuthorURI'
+#: token2-hwtokens.php:0
+#@ token2-hwtokens
+msgid "https://token2.com"
+msgstr "https://token2.com"
+
+#. translators: plugin header field 'Version'
+#: token2-hwtokens.php:0
+#@ token2-hwtokens
+msgid "0.30"
+msgstr "0.30"
+
+#: token2-hwtokens.php:143
+#@ token2-hwtokens
+msgid "<strong>ERROR</strong>: The Token2 Hardware Tokens code is incorrect or has expired."
+msgstr "<strong>FEHLER</strong>: Der eingegebene &quot;Token2 Hardware Tokens&quot;-Code ist falsch oder abgelaufen."
+
+#: token2-hwtokens.php:165
+#@ token2-hwtokens
+msgid "WordPress Blog"
+msgstr "WordPress-Blog"
+
+#: token2-hwtokens.php:167
+#: token2-hwtokens.php:263
+#@ token2-hwtokens
+msgid "Token2 Hardware Tokens Settings"
+msgstr "Einstellungen zu Token2 Hardware Tokens"
+
+#: token2-hwtokens.php:201
+#@ token2-hwtokens
+msgid "Scan this with the Token2 Hardware Tokens app."
+msgstr "Scanne diesen QR-Code mit der &quot;Token2 Hardware Tokens&quot;-App deines Smartphones."
+
+#: token2-hwtokens.php:118
+#@ token2-hwtokens
+msgid "If you don't have Token2 Hardware Tokens enabled for your WordPress account, leave this field empty."
+msgstr "Falls die Nutzung von &quot;Token2 Hardware Tokens&quot; für dieses WordPress-Konto nicht aktiviert ist, dieses Feld leer lassen."
+
+#: token2-hwtokens.php:185
+#@ token2-hwtokens
+msgid " Description that you'll see in the Token2 Hardware Tokens app on your phone."
+msgstr "Beschreibung, die in der &quot;Token2 Hardware Tokens&quot;-App auf dem Smartphone angezeigt wird."
+
+#. translators: plugin header field 'Description'
+#: token2-hwtokens.php:0
+#@ token2-hwtokens
+msgid "Two-Factor Authentication for WordPress using the Token2 Hardware Token app as One Time Password generator."
+msgstr "Zwei-Faktor-Authentifizierung für WordPress mit der &quot;Token2 Hardware Tokens&quot;-App für Token2 Hardware Token"
+

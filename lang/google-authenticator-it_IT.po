@@ -1,0 +1,138 @@
+# Copyright (C) 2010 Token2 Hardware Tokens
+# This file is distributed under the same license as the Token2 Hardware Tokens package.
+# Aldo Latino <aldolat@gmail.com>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: Token2 Hardware Tokens 0.37\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/token2-hwtokens\n"
+"POT-Creation-Date: 2011-08-21 14:25:45+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2012-05-24 23:12+0200\n"
+"Last-Translator: Aldo Latino <aldolat@gmail.com>\n"
+"Language-Team: Italian <kde-i18n-it@kde.org>\n"
+"Language: it\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 1.4\n"
+
+#: token2-hwtokens.php:131
+msgid ""
+"If you don't have Token2 Hardware Tokens enabled for your WordPress account, "
+"leave this field empty."
+msgstr ""
+"Se Token2 Hardware Tokens non è attivo per il tuo account WordPress, lascia "
+"vuoto questo campo."
+
+#: token2-hwtokens.php:131
+msgid "Token2 Hardware Tokens code"
+msgstr "Codice di Token2 Hardware Tokens"
+
+#: token2-hwtokens.php:176
+msgid "<strong>ERROR</strong>: The Token2 Hardware Tokens password is incorrect."
+msgstr ""
+"<strong>ERRORE</strong>: la password di Token2 Hardware Tokens non è corretta.."
+
+#: token2-hwtokens.php:179
+msgid ""
+"<strong>ERROR</strong>: The Token2 Hardware Tokens code is incorrect or has "
+"expired."
+msgstr ""
+"<strong>ERRORE</strong>: Il codice di Token2 Hardware Tokens non è corretta o è "
+"scaduto."
+
+#: token2-hwtokens.php:215
+msgid "WordPress Blog"
+msgstr "WordPress Blog"
+
+#: token2-hwtokens.php:218 token2-hwtokens.php:392
+msgid "Token2 Hardware Tokens Settings"
+msgstr "Impostazioni di Token2 Hardware Tokens"
+
+#: token2-hwtokens.php:223 token2-hwtokens.php:396
+msgid "Active"
+msgstr "Attiva"
+
+#: token2-hwtokens.php:235
+msgid "Relaxed mode"
+msgstr "Modalità comoda"
+
+#: token2-hwtokens.php:237
+msgid ""
+" Relaxed mode allows for more time drifting on your phone clock (&#177;4 "
+"min)."
+msgstr ""
+" La modalità comoda permette uno scostamento di tempo più esteso rispetto "
+"all'orologio del telefono (&#177;4 min)."
+
+#: token2-hwtokens.php:242
+msgid "Description"
+msgstr "Descrizione"
+
+#: token2-hwtokens.php:243
+msgid ""
+" Description that you'll see in the Token2 Hardware Tokens app on your phone."
+msgstr ""
+" La descrizione che si vede nell'app Token2 Hardware Tokens sul telefono."
+
+#: token2-hwtokens.php:247
+msgid "Secret"
+msgstr "Chiave segreta"
+
+#: token2-hwtokens.php:250
+msgid "Create new secret"
+msgstr "Crea una nuova chiave segreta"
+
+#: token2-hwtokens.php:251
+msgid "Show/Hide QR code"
+msgstr "Mostra/nascondi il codice QR"
+
+#: token2-hwtokens.php:259
+msgid "Scan this with the Token2 Hardware Tokens app."
+msgstr "Effettua la scansione con l'app Token2 Hardware Tokens."
+
+#: token2-hwtokens.php:264
+msgid "Enable App password"
+msgstr "Abilita la password delle App"
+
+#: token2-hwtokens.php:266
+msgid " Enabling an App password will decrease your overall login security."
+msgstr ""
+" L'abilitazione della password delle App abbasserà il livello di sicurezza "
+"generale del login."
+
+#: token2-hwtokens.php:274
+msgid "Create new password"
+msgstr "Crea una nuova password"
+
+#: token2-hwtokens.php:275
+msgid ""
+" Password is not stored in cleartext, this is your only chance to see it."
+msgstr ""
+" La password non è conservata in chiaro: questo l'unico momento in cui la si "
+"può vedere."
+
+#. Plugin Name of the plugin/theme
+msgid "Token2 Hardware Tokens"
+msgstr "Token2 Hardware Tokens"
+
+#. Plugin URI of the plugin/theme
+msgid "https://token2.com/"
+msgstr "https://token2.com/"
+
+#. Description of the plugin/theme
+msgid ""
+"Two-Factor Authentication for WordPress using the Token2 Hardware Token "
+"app as One Time Password generator."
+msgstr ""
+"Autenticazione a due fattori per WordPress utilizzando un'app su "
+"Token2 Hardware Token come generatore di Password usa-e-getta."
+
+#. Author of the plugin/theme
+msgid "Token2"
+msgstr "Token2"
+
+#. Author URI of the plugin/theme
+msgid "https://token2.com"
+msgstr "https://token2.com"
+

@@ -1,0 +1,112 @@
+# Copyright (C) 2014 Token2 Hardware Tokens
+# This file is distributed under the same license as the Token2 Hardware Tokens package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Token2 Hardware Tokens 0.47\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/token2-hwtokens\n"
+"POT-Creation-Date: 2014-01-11 07:14:22+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: token2-hwtokens.php:166
+msgid "If you don't have Token2 Hardware Tokens enabled for your WordPress account, leave this field empty."
+msgstr ""
+
+#: token2-hwtokens.php:166
+msgid "Token2 Hardware Tokens code"
+msgstr ""
+
+#: token2-hwtokens.php:231
+msgid "<strong>ERROR</strong>: The Token2 Hardware Tokens password is incorrect."
+msgstr ""
+
+#: token2-hwtokens.php:234
+msgid "<strong>ERROR</strong>: The Token2 Hardware Tokens code is incorrect or has expired."
+msgstr ""
+
+#: token2-hwtokens.php:274
+msgid "WordPressBlog"
+msgstr ""
+
+#: token2-hwtokens.php:277 token2-hwtokens.php:469
+msgid "Token2 Hardware Tokens Settings"
+msgstr ""
+
+#: token2-hwtokens.php:282 token2-hwtokens.php:481
+msgid "Active"
+msgstr ""
+
+#: token2-hwtokens.php:290
+msgid "Relaxed mode"
+msgstr ""
+
+#: token2-hwtokens.php:292
+msgid " Relaxed mode allows for more time drifting on your phone clock (&#177;4 min)."
+msgstr ""
+
+#: token2-hwtokens.php:297
+msgid "Description"
+msgstr ""
+
+#: token2-hwtokens.php:298
+msgid " Description that you'll see in the Token2 Hardware Tokens app on your phone."
+msgstr ""
+
+#: token2-hwtokens.php:302
+msgid "Secret"
+msgstr ""
+
+#: token2-hwtokens.php:305
+msgid "Create new secret"
+msgstr ""
+
+#: token2-hwtokens.php:306
+msgid "Show/Hide QR code"
+msgstr ""
+
+#: token2-hwtokens.php:315
+msgid "Scan this with the Token2 Hardware Tokens app."
+msgstr ""
+
+#: token2-hwtokens.php:320
+msgid "Enable App password"
+msgstr ""
+
+#: token2-hwtokens.php:322
+msgid " Enabling an App password will decrease your overall login security."
+msgstr ""
+
+#: token2-hwtokens.php:330
+msgid "Create new password"
+msgstr ""
+
+#: token2-hwtokens.php:331
+msgid " Password is not stored in cleartext, this is your only chance to see it."
+msgstr ""
+
+#: token2-hwtokens.php:474
+msgid "Hide settings from user"
+msgstr ""
+#. Plugin Name of the plugin/theme
+msgid "Token2 Hardware Tokens"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://token2.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Two-Factor Authentication for WordPress using the Token2 Hardware Token app as One Time Password generator."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Token2"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://token2.com"
+msgstr ""
